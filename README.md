@@ -18,4 +18,4 @@ cargo test puzzle1
 
 and replace the number with the one you want to run specifically.
 
-All code written for the puzzle should be written in [./host/src/lib.rs](./host/src/lib.rs), and there will be instructions in that file of what to modify! There is some template code to hint towards how to setup the `ExecutorEnv`, but feel free to change anything above the line indicated not to go below.
+All code written for the puzzle should be written in [./src/lib.rs](./src/lib.rs), and there will be instructions in that file of what to modify! There is some template code to hint towards how to setup the `ExecutorEnv`, but feel free to change anything above the line indicated not to go below.
